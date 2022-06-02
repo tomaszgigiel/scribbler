@@ -1,0 +1,2 @@
+https://github.com/tomaszgigiel/scribbler/settings/pages
+wait 10 minutes
