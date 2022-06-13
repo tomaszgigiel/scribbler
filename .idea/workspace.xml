@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9337e986-811b-44b7-b8d1-dd0341f23519" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/project.scribbler-sbt-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/scribbler-sbt-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/scribbler-sbt-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/scribbler-sbt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/scribbler-sbt.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/workspace.scribbler-sbt.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2A4ab7Qvrh8uuaeF6nNdyMifdeI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/tomasz/Documents/workspace/scribbler/workbench-confidential/english-with-lucy/100-common-english-questions-and-answers/step04",
+    "scala_project_settings_configurable.last_selected_tab_index": "6",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/workbench-confidential/english-with-lucy/100-common-english-questions-and-answers/step04" />
+      <recent name="$PROJECT_DIR$/workbench-confidential/english-with-lucy/100-common-english-questions-and-answers" />
+      <recent name="$PROJECT_DIR$/workbench-confidential" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/workbench-confidential/english-with-lucy/100-common-english-questions-and-answers/step03" />
+      <recent name="$PROJECT_DIR$/workbench-confidential/english-with-lucy/100-common-english-questions-and-answers/step02" />
+      <recent name="$PROJECT_DIR$/workbench-confidential/english-with-lucy/100-common-english-questions-and-answers/step01" />
+      <recent name="$PROJECT_DIR$/workbench-confidential/murphy-raymond" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="pl.tomaszgigiel.scribbler.cryptor.main" />
+      <module name="scribbler-sbt" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/workbench-confidential/cryptor/cryptor.properties" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.tomaszgigiel.scribbler.replace.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pl.tomaszgigiel.scribbler.englishwithlucy.main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="pl.tomaszgigiel.scribbler.englishwithlucy.main" />
+      <module name="scribbler-sbt" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/workbench-confidential/english-with-lucy/100-common-english-questions-and-answers/english-with-lucy.properties" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.tomaszgigiel.scribbler.englishwithlucy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="scribbler_295" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="scribbler_295" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="LiferayDockerServerConfiguration" factoryName="Liferay Docker Server">
+      <option name="passParentEnvironments" value="true" />
+      <option name="workspaceLocation" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="xml" value="XML" />
+      </map>
+    </option>
+    <option name="scala3DisclaimerShown" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9337e986-811b-44b7-b8d1-dd0341f23519" name="Changes" comment="" />
+      <created>1654271385962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654271385962</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -10,7 +10,7 @@ lazy val root = project
       "-new-syntax",
       "-explain"),
     licenses := List("Apache License, Version 2.0" -> url("http://www.apache.org/licenses/LICENSE-2.0")),
-    libraryDependencies ++= Seq(catsCore, catsEffect, commonsCollections4, commonsIO, commonsLang3, doobieCore, doobieH2, doobieHikari, doobieScalatest, freemarker, junitJupiter, log4jCore, logbackClassic, lombok, munitCatsEffect3, scalaLogging, scalatest, stanfordCoreNLP, typesafeConfig),
+    libraryDependencies ++= Seq(catsCore, catsEffect, commonsCollections4, commonsIO, commonsLang3, doobieCore, doobieH2, doobieHikari, doobieScalatest, freemarker, junitJupiter, log4jCore, logbackClassic, lombok, munitCatsEffect3, scalaLogging, scalatest, stanfordCoreNLP, typesafeConfig, ztzip),
     Compile / mainClass := Some("pl.tomaszgigiel.scribbler.ScalaApp"),
     assembly / assemblyJarName := s"${name.value}-uberjar.jar",
     assembly / assemblyMergeStrategy := {
@@ -40,3 +40,4 @@ val scalaLogging = "com.typesafe.scala-logging" %% "scala-logging" % "3.9.5"
 val scalatest = "org.scalatest" %% "scalatest" % "3.2.11" % Test
 val stanfordCoreNLP = "edu.stanford.nlp" % "stanford-corenlp" % "4.4.0"
 val typesafeConfig = "com.typesafe" % "config" % "1.4.2"
+val ztzip= "org.zeroturnaround" % "zt-zip" % "1.15"
